@@ -8,5 +8,5 @@ And then, make your camera focus on speticular platform. You will see a block.<b
 Without hesitation! Just click it! A minions will appear in your world.<br>
  
 The following is a sample. It's awesome, right?.<br>
-Fially, I hope that you have a good time to enjoy it~.<br>
+Finally, I hope that you have a good time to enjoy it~.<br>
 ![image](https://github.com/jackson09255921/MarkerLessAR/blob/main/Picture/Screenshot_20220916-233545_NEW_MarkerLess.jpg)<br>
