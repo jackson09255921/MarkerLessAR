@@ -1,5 +1,5 @@
 # MarkerLessAR
-Using unity and vuforia to create the small work
+Using unity and vuforia to create the small project.
 
 Welcome to my AR artwork.<br>
 Since the previous version of directory is broken, there is only apk. file can work. Thus, I just put it on github.<br>
