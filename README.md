@@ -3,7 +3,7 @@ Using unity and vuforia to create the small project.
 
 Welcome to my AR artwork.<br>
 Since the previous version of directory is broken, there is only apk. file can work. Thus, I just put it on github.<br>
-You are able to download the apk. file and transport to your own android phone.<br>
+You are able to download the apk. file and transport to your android phone.<br>
 And then, make your camera focus on speticular platform. You will see a block.<br>
 Without hesitation! Just click it! A minions will appear in your world.<br>
  
